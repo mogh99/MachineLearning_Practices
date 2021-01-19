@@ -1,4 +1,4 @@
 # About
-This repository will include all the machine learning and data science practices that I work on.
+This repository will include all the machine learning and deep learning practices that I work on.
 
-Every folder will include the datasets, requirements, and steps to run the project.
+Every folder will include a practice with the requirements and steps to run the project.
